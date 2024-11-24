@@ -6,3 +6,6 @@ input_images/
 *
 !.gitignore
 !small_pics/
+
+!small_pics/*
+small_pics/600x600_images
