@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 input_images/
+*
+!.gitignore
+!small_pics/
