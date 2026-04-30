@@ -1,4 +1,5 @@
 Version: 1.0
+ProjectId: ac73a7e1-f159-4ed0-8d21-ece206b221d5
 
 RestoreWorkspace: Default
 SaveWorkspace: Default
@@ -11,3 +12,5 @@ Encoding: UTF-8
 
 RnwWeave: knitr
 LaTeX: pdfLaTeX
+
+ProjectName: Light on the Sea shop
